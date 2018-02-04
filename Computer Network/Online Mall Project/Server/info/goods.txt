@@ -1,0 +1,5 @@
+good_id good_name shop_id price
+1@PHP Book@12@$122.0
+2@Cook Book@12@$123.0
+3@Hamburger@456@$124.0
+4@Milk@456@$125.0

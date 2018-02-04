@@ -1,0 +1,1 @@
+result=jpgandalpha('/Users/apple/Desktop/Lenna.bmp','/Users/apple/Desktop/hidefile.txt')
