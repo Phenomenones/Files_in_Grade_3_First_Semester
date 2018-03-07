@@ -1,2 +1,2 @@
-# Labs from Digital Watermark
-Labs from Digital Watermark
+# Files from Digital Watermark
+Labs and final report from Digital Watermark
